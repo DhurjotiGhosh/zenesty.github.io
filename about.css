@@ -134,7 +134,7 @@ a.home,a:hover{
         font-size: 44px;
     }
     #banner {
-        background: url(img/home7.jpg) no-repeat; /* Use a smaller image for smaller screens */
+        background: url(img/home6.jpg) no-repeat; /* Use a smaller image for smaller screens */
         background-size: cover;
         height: calc(100vh - 50px); /* You can adjust the height if needed */
     }
